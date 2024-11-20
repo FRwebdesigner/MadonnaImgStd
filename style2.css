@@ -1,1 +1,21 @@
+* {
+    box-sizing: border-box;
+  }
 
+  .column {
+    float: left;
+    width: 50%;
+    padding: 2.5px;
+  }
+
+  audioColumn {
+    float: left;
+    width: 50%;
+    padding: 2.5px;
+  }
+p {
+   font-size: 26px;
+   font-weight: 700;
+   text-align: center;
+   color: gray;
+}
