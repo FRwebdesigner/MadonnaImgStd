@@ -13,9 +13,16 @@
     width: 50%;
     padding: 2.5px;
   }
-p {
-   font-size: 26px;
-   font-weight: 700;
-   text-align: center;
-   color: gray;
-}
+
+ .section1 {
+   float: left;
+   width: 100%;
+   padding: 2.5px;
+  }
+
+  .section2 {
+    float: left;
+    width: 100%;
+    padding: 2.5px;
+
+  }
